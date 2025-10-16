@@ -18,7 +18,7 @@ phases:
 
 env:
   variables:
-    ECR_URI: "123456789012.dkr.ecr.us-east-1.amazonaws.com/my-app"
+    ECR_URI: "711387103278.dkr.ecr.us-east-1.amazonaws.com/my-app"
 
 artifacts:
   files:
